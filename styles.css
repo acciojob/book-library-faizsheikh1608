@@ -17,10 +17,14 @@ body {
 }
 
 .book {
+  background-color: #ffffff;
+  padding: 10px;
+  margin: 20px;
   text-align: center;
   width: 200px;
-  margin: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
+
 
 .book img {
   width: 100%;
